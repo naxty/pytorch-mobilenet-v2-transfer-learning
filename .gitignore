@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+data/images/banana
+data/images/apple
+data/images/orange
+data/model/mobilenet_v2.pth.tar
+__pycache__/
